@@ -1,8 +1,8 @@
-# UA Little Rock – Phishing Awareness Lab
+# Phishing Awareness Lab
 
 This project is an interactive, web-based phishing simulation and training module designed for senior-level cybersecurity students. It provides hands-on exposure to realistic email threats and reinforces key principles through an embedded quiz and immediate feedback.
 
----
+
 
 ## Learning Objectives
 
@@ -11,7 +11,7 @@ This project is an interactive, web-based phishing simulation and training modul
 - Practice safe decision-making with realistic simulations
 - Reinforce phishing concepts through targeted assessment
 
---Features
+Features
 
 - 6 simulated emails (4 legitimate, 2 phishing)
 - Immediate feedback for each interaction (click/report)
@@ -22,7 +22,7 @@ This project is an interactive, web-based phishing simulation and training modul
   - Incident response
 - Final performance summary and replay option
 
----
+
 
 ## ⏱️ Suggested Timing (Total: ~8–10 minutes)
 
@@ -33,11 +33,12 @@ This project is an interactive, web-based phishing simulation and training modul
 | **3. Quiz**            | 3–4 minutes   | 10 multiple-choice questions to reinforce learning            |
 | **4. Review & Retry**  | Optional      | Final score + “Start Over” option for replayability          |
 
----
+
 
 ##  How to Use
 
 1. **Download or clone this repo:**
 
 ```bash
-https://github.com/CJackson02/phishing-awareness-lab/new/main
+git clone https://github.com/CJackson02/phishing-awareness-lab.git
+
