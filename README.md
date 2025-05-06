@@ -23,6 +23,23 @@ Features
 - Final performance summary and replay option
 
 
+## Quiz Answer Key
+
+| Question # | Correct Answer | Explanation |
+|------------|----------------|-------------|
+| 1          | B              | Phishing often uses urgency, typos, or suspicious links  
+| 2          | B              | Reporting to IT is always the safest response  
+| 3          | B              | ualr-helpdesk.com is a spoofed domain  
+| 4          | B              | Attackers create urgency to provoke quick action  
+| 5          | A              | Hovering lets you safely inspect the URL  
+| 6          | B              | Spear phishing is targeted  
+| 7          | B              | Reporting helps protect others  
+| 8          | C              | Best practice is to report and change your credentials  
+| 9          | B              | Credential theft is the main phishing objective  
+| 10         | B              | `.exe` and `.js` are risky file types  
+
+
+
 
 ## ⏱️ Suggested Timing (Total: ~8–10 minutes)
 
