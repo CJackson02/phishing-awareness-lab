@@ -1,6 +1,6 @@
 # Phishing Awareness Lab
 
-This project is an interactive, web-based phishing simulation and training module designed for senior-level cybersecurity students. It provides hands-on exposure to realistic email threats and reinforces key principles through an embedded quiz and immediate feedback.
+This project is an interactive, web based phishing simulation and training module designed for senior level cybersecurity students. It provides hands on exposure to realistic email threats and reinforces key principles through an embedded quiz and immediate feedback.
 
 
 
@@ -15,7 +15,7 @@ Features
 
 - 6 simulated emails (4 legitimate, 2 phishing)
 - Immediate feedback for each interaction (click/report)
-- 10-question phishing quiz covering:
+- 10 question phishing quiz covering:
   - Red flags
   - Domain spoofing
   - Social engineering tactics
